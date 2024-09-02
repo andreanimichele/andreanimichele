@@ -22,4 +22,4 @@
 
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="40" height="40"/> </a> </p>
 
-<a href="https://gretl.sourceforge.net/" target="_blank" rel="noreferrer"> <img src="https://it.wikipedia.org/wiki/Gretl#/media/File:Gretl_logo.png" alt="gretl" width="40" height="40"/> </a> </p>
+<a href="https://gretl.sourceforge.net/" target="_blank" rel="noreferrer"> <img src="https://www.statisticalconsultants.co.nz/weeklyfeatures/WF5/gretl-image.png" alt="gretl" width="40" height="40"/> </a> </p>
