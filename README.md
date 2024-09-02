@@ -26,6 +26,15 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" style="height: 40px; margin-right: 10px;"/>
   </a>
   <a href="https://gretl.sourceforge.net/" target="_blank" rel="noreferrer">
-    <img src="https://www.statisticalconsultants.co.nz/weeklyfeatures/WF5/gretl-image.png" alt="gretl" style="height: 40px;"/>
+    <img src="https://www.statisticalconsultants.co.nz/weeklyfeatures/WF5/gretl-image.png" alt="gretl" style="height: 40px; margin-right: 10px;"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" style="height: 40px; margin-right: 10px;"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="git" style="height: 40px; margin-right: 10px;"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="github" style="height: 40px;"/>
   </a>
 </p>
