@@ -3,7 +3,13 @@
 
 ## 🚀 About me
 
-👨‍🎓 Ph.D. in Economics, Università Politecnica delle Marche Home
+👨‍🎓 Ph.D. in Economics, Università Politecnica delle Marche. My main interests are in applied macroeconomics and time series modeling.
+
+🔬 Research Economist at the Central Bank of Malta.
+
+🎸 Deeply passionate about music. Guitar, Bass, Drum player. 
+
+🏊‍♂️ Lifesaving swimmer, Team Salvagente 2.0.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
