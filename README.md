@@ -20,12 +20,12 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" style="height: 40px; margin-right: 10px;"/>
   </a>
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" style="height: 40px; margin-right: 10px;"/>
   </a>
   <a href="https://gretl.sourceforge.net/" target="_blank" rel="noreferrer">
-    <img src="https://www.statisticalconsultants.co.nz/weeklyfeatures/WF5/gretl-image.png" alt="gretl" width="40" height="40"/>
+    <img src="https://www.statisticalconsultants.co.nz/weeklyfeatures/WF5/gretl-image.png" alt="gretl" style="height: 40px;"/>
   </a>
 </p>
