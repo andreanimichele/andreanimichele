@@ -5,7 +5,7 @@
 
 👨‍🎓 Ph.D. in Economics, Università Politecnica delle Marche. My main interests are in applied macroeconomics and time series modeling.
 
-🔬 Research Economist at the Central Bank of Malta.
+🔬 Principal Research Economist at the Central Bank of Malta, Financial Stability Research Office
 
 🎸 Deeply passionate about music. Guitar, Bass, Drum player. 
 
