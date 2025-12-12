@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Michele</h1>
-<h3 align="center">Research Economist, Central Bank of Malta.</h3>
+<h3 align="center">Principal Research Economist, Central Bank of Malta.</h3>
 
 ## 🚀 About me
 
-👨‍🎓 Ph.D. in Economics, Università Politecnica delle Marche. My main interests are in applied macroeconomics and time series modeling.
-
 🔬 Principal Research Economist at the Central Bank of Malta, Financial Stability Research Office
+
+👨‍🎓 Ph.D. in Economics, Università Politecnica delle Marche. My main interests are in applied macroeconomics and time series modeling.
 
 🎸 Deeply passionate about music. Guitar, Bass, Drum player. 
 
